@@ -1,0 +1,6 @@
+THINGS TO CONSIDER: 
+- Infinite scroll vs Button / Segmented navigation
+- Return to the top Button
+- Tab with News 
+- Tab with Publications
+- Tab with Founders and Advisory board
